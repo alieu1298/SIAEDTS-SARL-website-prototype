@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Menu, X, ArrowRight, MapPin, Phone, Mail, ChevronRight, Sprout, Egg, Stethoscope, Fish, FlaskConical, GraduationCap, Factory, ShieldCheck, MessageCircle, Send, Leaf, Wheat, Users } from 'lucide-react';
 import './style.css';
-import logo from '../logo.jpg';
+import logo from './assets/logo.jpg';
 import l1 from '../location/l1.jpg';
 import l2 from '../location/l2.jpg';
 import l3 from '../location/l3.jpg';
