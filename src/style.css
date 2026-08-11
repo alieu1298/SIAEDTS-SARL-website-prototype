@@ -64,6 +64,16 @@ header {
     clip-path: polygon(50% 0, 100% 20%, 100% 78%, 50% 100%, 0 78%, 0 20%)
 }
 
+.logo {
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid var(--gold);
+    background: #fff;
+    flex-shrink: 0
+}
+
 .brand b {
     font-size: 17px;
     letter-spacing: .06em;
